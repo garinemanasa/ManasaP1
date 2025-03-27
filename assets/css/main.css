@@ -98,10 +98,14 @@ input, select, textarea {
 		box-sizing: inherit;
 	}
 
-	body {
+	/*body {
 		background-color: #1e252d;
+	}*/
+	body {
+		background-color: #f0f8ff; /* Light blue */
+		color: #333; /* Text color */
 	}
-
+	
 		body.is-preload *, body.is-preload *:before, body.is-preload *:after {
 			-moz-animation: none !important;
 			-webkit-animation: none !important;
@@ -143,10 +147,14 @@ input, select, textarea {
 
 		}
 
-	body {
+	/*body {
 		color: #212931;
+	}*/
+    body {
+		background-color: #f0f8ff; /* Light blue */
+		color: #333; /* Text color */
 	}
-
+	
 	body, input, select, textarea {
 		font-family: "Merriweather", Georgia, serif;
 		font-weight: 300;
